@@ -1,2 +1,0 @@
-# Teste
-Testando repositório Git
